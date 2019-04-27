@@ -6,11 +6,11 @@ The Greater Risk Probability is a probability measure of whether the individual 
 **1 - RMSE** score of **0.948** was achieved with this model.
 
 Dataset:
-- train.csv
-- test.csv
+- train_file.csv (training file)
+- test.csv (testing file)
 
 Python file:
-- predicitive.py
+- predictive.py
 
 Frameworks and tools:
 - Spyder
